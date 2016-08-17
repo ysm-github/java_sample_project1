@@ -6,3 +6,4 @@ one project about java
 * stop 3
 * stop 4
 * stop 5
+* stop 6
